@@ -1,10 +1,7 @@
-## Hey 👋
+![header_image](https://github.com/reaktor/.github/assets/24896825/56a479f3-adc9-4030-be3f-b61ee77366ee)
 
-![cover reaktor](https://user-images.githubusercontent.com/24896825/176692637-4180a498-c685-4829-ab63-3e3182696190.png)
+We are a global technology consultancy that designs and builds category-defining digital products and services. Our clients include industry leaders such as adidas, HBO, KONE, Cathay Pacific, and Supercell. Our work has been globally recognised with awards like the MIT Inclusive Innovation Prize, Red Dot, Webby Award, German Design Award, and Apex Innovation Award.
 
-**Reaktor** is a creative technology partner for forward-thinking organizations and societies. We create digital products, services, and strategies built on exceptional technological competence. Reaktor’s global community of **700+ industry-leading** experts creates digital products, services, and strategies built on exceptional technological competence. The company is known for delivering high quality with high velocity, from premium software development to brand experiences and digital transformation.
+We’re known for embracing autonomy, optimizing for speed, and meticulously building the most high-performing multidisciplinary teams that get to the heart of what matters. At Reaktor, you’ll find one of the highest performing software development cultures on the planet. Our clients look to us to not only deliver digital products of the highest order, but better ways of working as well. As we go about innovating new solutions, we strive to seed a change that enables our clients to operate like the best-in-class digital teams.
 
-Based in **Helsinki**, **New York**, **Amsterdam**, **Stockholm**, **Lisbon**, and **Tokyo**, Reaktor works with clients such as Adidas, HBO, Supercell, Varian, and Finnair. Reaktor’s work has been globally recognized with awards such as the MIT Inclusive Innovation Prize, Red Dot, Emmy for Interactive Media, Webby Award, German Design Award, and Apex Innovation Award.
-
-## More about us 🚀
-Get to know more about us at [Reaktor](https://www.reaktor.com/). Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://www.reaktor.com/careers/) 🙌.
+Today, we're a team of 700 designers, developers and strategists more with offices in six countries around Europe, North America and Asia.
